@@ -66,3 +66,5 @@ This project provides a Google Cloud Function that automatically generates a con
 
 ## License
 MIT 
+
+Mady by Ansuhree
